@@ -9,6 +9,7 @@ header {
     margin-bottom: 20px;
     display: flex;
     width: 1100px;
+    
 }
 
 .button {
@@ -42,6 +43,7 @@ h1 {
     font-size: 36px;
     margin-top: ;
     margin-bottom: ;
+    width: 1100px;
 }
 
 p {
